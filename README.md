@@ -14,4 +14,4 @@ Opdrachten 4 en 2\
 Loopbaan: hoe bereik ik mijn doel?\
 Opdrachten 5 en 1\
 Netwerken: wie kan mij helpen mijn doel te bereiken?\
-Opdrachten 4 en 2\
+Opdrachten 4 en 2
