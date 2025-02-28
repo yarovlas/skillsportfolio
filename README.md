@@ -1,10 +1,4 @@
 # skillsportfolio
-1. Brief aan de mentor
-2. Plannen
-3. Refelectieverslag met de handmethode
-4. Reflecteren op de ouderavond
-5. SMART doel voor periode 2
-------------------------------------------
 Kwaliteiten: wat kan ik goed?\
 Opdrachten 3 en 4\
 Motieven: waar ga ik en sta ik voor?\
